@@ -3,7 +3,7 @@ Wikiunity-AdvertisingSitenotice
 
 Extension (wikiunity hosting)
 
-<<pre>
+<pre>
 /*
 * Wikiunity.com war ein Gemeinschaftsprojekt von:
 * Michael Kaufmann (Michael McCouman Jr.) CEO, Tim Weyer COO und Bob Weinand CTO
